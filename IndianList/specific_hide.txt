@@ -54,8 +54,8 @@ kamuktastories.com##.enhanced-text-widget
 malayalamemagazine.com##.entry-banner
 lankasri.com##.f-single
 lakshmipur24.com##.header_ad_block
-tnilive.com##.lefta
 doolnews.com##.horiz_adv_area
+tnilive.com##.lefta
 doolnews.com##.long_adv_area
 manoramaonline.com##.mm-banner970-90-ad
 manoramaonline.com##.mm-other-ad
